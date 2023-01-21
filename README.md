@@ -74,6 +74,8 @@ A live version of the project can be viewed at: https://ananfito.github.io/visit
 
 ## Connect
 
+Thank you for reading about this project. If you'd like to connect with me for mentoring, collaboration, or employment opportunities, you can do so via the following links:
+
 - [Email](https://anthonynanfito.com/contact/)
 - [LinkedIn](https://linkedin.com/in/anthonynanfito)
 - [Portfolio](https://ananfito.github.io)
